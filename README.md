@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="SYSTEM BREACHED - Chanuka Nirashan" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a3d0a&height=260&section=header&text=SYSTEM%20BREACHED&fontSize=62&fontColor=00ff41&fontAlignY=40&animation=twinkling&desc=root%20access%20acquired%20-%20Chanuka%20Nirashan&descSize=20&descAlignY=66&descColor=ffffff" width="100%" alt="SYSTEM BREACHED - Chanuka Nirashan" />
 
 <a href="https://github.com/chanukanirashan">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=760&height=50&lines=%3E+Initializing+breach...;%3E+Bypassing+firewall...;%3E+Cracking+encryption...;%3E+ACCESS+GRANTED;%3E+Welcome%2C+Chanuka+Nirashan" alt="Typing SVG" />
@@ -13,8 +13,6 @@
   <img src="https://img.shields.io/github/followers/chanukanirashan?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000&color=00c43b" alt="Followers" />
   <img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41" alt="Status" />
 </p>
-
-<img src="terminal.svg" alt="terminal session" width="90%"/>
 
 </div>
 
@@ -101,8 +99,8 @@ cybersecurity/   machine_learning/   web_development/   software_engineering/
 
 <!--
 FEATURED PROJECTS (hidden until you are ready)
-Replace REPO_NAME_1 and REPO_NAME_2 with your repository names, then remove the
-comment markers around this block to show it.
+To show this section: replace REPO_NAME_1 and REPO_NAME_2 with your repository names,
+then delete this line, the line above "## `> ls ./projects`" and the closing arrow line at the end of this block.
 
 ## `> ls ./projects`
 
