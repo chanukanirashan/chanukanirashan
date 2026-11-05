@@ -1,6 +1,12 @@
+<!-- ============================================================
+     PROFILE README — Chanuka Nirashan
+     Theme: Matrix green (#00ff41) on pure black (#000000)
+     Place this file as README.md in the repo: chanukanirashan/chanukanirashan
+     ============================================================ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a3d0a&height=260&section=header&text=SYSTEM%20BREACHED&fontSize=62&fontColor=00ff41&fontAlignY=40&animation=twinkling&desc=root%20access%20acquired%20-%20Chanuka%20Nirashan&descSize=20&descAlignY=66&descColor=ffffff" width="100%" alt="SYSTEM BREACHED - Chanuka Nirashan" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,60:052e05,100:0a3d0a&height=260&section=header&text=SYSTEM%20BREACHED&fontSize=62&fontColor=00ff41&fontAlignY=40&animation=twinkling&desc=root%20access%20acquired%20%7C%20Chanuka%20Nirashan&descSize=20&descAlignY=66&descColor=ffffff" width="100%" alt="SYSTEM BREACHED - Chanuka Nirashan" />
 
 <a href="https://github.com/chanukanirashan">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=760&height=50&lines=%3E+Initializing+breach...;%3E+Bypassing+firewall...;%3E+Cracking+encryption...;%3E+ACCESS+GRANTED;%3E+Welcome%2C+Chanuka+Nirashan" alt="Typing SVG" />
@@ -9,23 +15,29 @@
 <br/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=chanukanirashan&label=VICTIMS+SERVED&color=00c43b&style=for-the-badge&labelColor=000000" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=chanukanirashan&label=VISITORS&color=00c43b&style=for-the-badge&labelColor=000000" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/chanukanirashan?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000&color=00c43b" alt="Followers" />
   <img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41" alt="Status" />
+  <img src="https://img.shields.io/badge/UoM-Moratuwa-000000?style=for-the-badge&logo=academia&logoColor=00ff41" alt="University of Moratuwa" />
 </p>
 
 </div>
 
 ---
 
-## `> whoami`
+## `> ./breach.sh`
 
 ```diff
++ [ OK ] Scanning open ports ............ done
 + [ OK ] Firewall bypassed
-+ [ OK ] Root access obtained
++ [ OK ] Privilege escalation ........... root
 + [ OK ] Profile successfully accessed
-- [ !! ] Warning: unauthorized visitor detected (that's you)
+- [ !! ] Unauthorized visitor detected (that's you)
 ```
+
+---
+
+## `> whoami`
 
 ```bash
 root@chanuka:~# whoami
@@ -34,7 +46,7 @@ chanuka_nirashan
 root@chanuka:~# cat about.txt
 Name        : Chanuka Nirashan
 Status      : Undergraduate Student
-University  : University of Moratuwa
+University  : University of Moratuwa (UoM)
 Interests   : Cybersecurity | Machine Learning | Web Development | Software Engineering
 Mission     : Learn, build, break (ethically) and secure
 Mindset     : White-hat. Curious. Always learning.
@@ -88,29 +100,30 @@ cybersecurity/   machine_learning/   web_development/   software_engineering/
 
 ## `> ./active_missions.sh`
 
-- [x] Initialize GitHub profile and take over the terminal
-- [ ] Build and deploy my first full-stack web project
-- [ ] Complete a cybersecurity learning path (networking, Linux, web security)
-- [ ] Train and evaluate my first machine learning model
-- [ ] Take part in a Capture The Flag (CTF) competition
-- [ ] Contribute to an open-source project
+```diff
++ [ACTIVE]   Learning cybersecurity: networking, Linux and web security
++ [ACTIVE]   Building ML projects with real datasets
++ [ACTIVE]   Developing modern, secure web applications
+! [PLANNED]  Take part in a Capture The Flag (CTF) competition
+! [PLANNED]  Contribute to an open-source project
+```
 
 ---
 
 <!--
 FEATURED PROJECTS (hidden until you are ready)
-To show this section: replace REPO_NAME_1 and REPO_NAME_2 with your repository names,
-then delete this line, the line above "## `> ls ./projects`" and the closing arrow line at the end of this block.
+To show this section: replace REPO_NAME_1 and REPO_NAME_2 with your repo names,
+then delete this comment's opening and closing markers.
 
 ## `> ls ./projects`
 
 <div align="center">
 
 <a href="https://github.com/chanukanirashan/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chanukanirashan&repo=REPO_NAME_1&theme=merko&hide_border=true" alt="Project 1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chanukanirashan&repo=REPO_NAME_1&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff" alt="Project 1" />
 </a>
 <a href="https://github.com/chanukanirashan/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chanukanirashan&repo=REPO_NAME_2&theme=merko&hide_border=true" alt="Project 2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chanukanirashan&repo=REPO_NAME_2&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff" alt="Project 2" />
 </a>
 
 </div>
@@ -122,12 +135,7 @@ then delete this line, the line above "## `> ls ./projects`" and the closing arr
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=chanukanirashan&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanukanirashan&layout=compact&theme=merko&hide_border=true" alt="Top languages" />
-
 <img src="https://streak-stats.demolab.com?user=chanukanirashan&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=00FF41&dates=00C43B" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chanukanirashan&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true" alt="Contribution activity graph" width="100%" />
 
 </div>
 
@@ -139,16 +147,20 @@ then delete this line, the line above "## `> ls ./projects`" and the closing arr
 
 <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff41" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41" alt="LinkedIn" /></a>
+<a href="https://github.com/chanukanirashan"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41" alt="GitHub" /></a>
 
 <br/><br/>
 
 ```bash
-$ echo "Stay curious. Stay ethical. Stay secure."
+root@chanuka:~# echo "Stay curious. Stay ethical. Stay secure."
 Stay curious. Stay ethical. Stay secure.
+
+root@chanuka:~# logout
+[ connection closed ]
 ```
 
-<sub>This profile is a creative theme. All my security learning is done legally and ethically, in authorized labs and practice platforms only.</sub>
+<sub>This profile is a creative theme. All security learning is done legally and ethically, in authorized labs and practice platforms only.</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a3d0a,100:000000&height=100&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a3d0a,60:052e05,100:000000&height=100&section=footer" width="100%" alt="footer" />
