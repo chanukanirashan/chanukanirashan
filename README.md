@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="SYSTEM BREACHED - Chanuka Nirashan" width="100%" />
+<img src="banner.svg" alt="SYSTEM BREACHED - Chanuka Nirashan" width="100%" />
 
 <a href="https://github.com/chanukanirashan">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=760&height=50&lines=%3E+Initializing+breach...;%3E+Bypassing+firewall...;%3E+Cracking+encryption...;%3E+ACCESS+GRANTED;%3E+Welcome%2C+Chanuka+Nirashan" alt="Typing SVG" />
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41" alt="Status" />
 </p>
 
-<img src="assets/terminal.svg" alt="terminal session" width="90%" />
+<img src="terminal.svg" alt="terminal session" width="90%"/>
 
 </div>
 
